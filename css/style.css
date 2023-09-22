@@ -1,5 +1,12 @@
 #site_header {
-    height: 8cm;
-    background-color: cornflowerblue;
+    background-color:cornflowerblue;
     background-image: url(/img/pattern.png);
+    background-size: 280px;
 }  
+
+.logo-img {
+    padding-top: 1rem;
+    padding-left: 0.5rem;
+    padding-bottom: 1rem;
+    padding-right: 0.5rem;
+}
