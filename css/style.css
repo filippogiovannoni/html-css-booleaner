@@ -17,6 +17,9 @@
     padding-bottom: 1rem;
 }
 
+main {
+    margin: auto;
+}
 .metadata {
     color: darkgray;
     font-size: 18px;
@@ -38,4 +41,34 @@ h1 {
 
 .photo_description {
     font-size: 12px;
+}
+
+.lorem_ulist {
+    padding-left: 0.5rem;
+}
+
+.table {
+    border-spacing: 0;
+    padding-bottom: 1rem;
+}
+.table_header {
+    background-color: rgb(18, 191, 222);
+    color: white;
+}
+
+.table_body {
+    background-color: rgb(213, 247, 255);
+}
+
+.table_row2 {
+    background-color: white;
+}
+
+.th3 {
+    width: 40%;
+}
+
+.lorem_ulist {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 }
