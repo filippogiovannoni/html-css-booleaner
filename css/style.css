@@ -72,3 +72,23 @@ h1 {
     padding-top: 1rem;
     padding-bottom: 1rem;
 }
+
+.related_articles {
+    color: dimgray;
+}
+
+.related_article {
+    width: 240px;
+    height: 240px;
+    margin: 0.5rem;
+    color: white;
+    text-align:center;
+}
+
+#monitor {
+    background-image: url(/img/monitor.jpg);
+}
+
+#graph {
+    background-image: url(/img/graph.jpg);
+}
