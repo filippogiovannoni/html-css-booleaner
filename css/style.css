@@ -10,3 +10,13 @@
     padding-bottom: 1rem;
     padding-right: 0.5rem;
 }
+
+.metadata {
+    color: darkgray;
+    font-size: 12px;
+}
+
+.author_link {
+    color: cornflowerblue;
+    text-decoration: none;
+}
